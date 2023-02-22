@@ -9,4 +9,5 @@ spec:
       status: "True"
   clusterSelector:
     matchLabels:
+      tenant: mds
       environment: coll
